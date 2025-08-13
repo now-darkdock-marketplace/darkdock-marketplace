@@ -73,4 +73,6 @@ Store your mnemonic code securely in a separate, offline location.
 
 <a href="http://d562b5e3jfxlzjfffjv6wr3wtxrzlbm2zkr35yp6h7nivqsyfxzqtwid.onion"><img src="/assets/empty.webp" alt="DarkDock Register" style="max-width: 100%;"></a>
 
-Update:  08/04/2025 Link is now accessible
+
+
+Update:  13.08.2025 TOR links fixed
