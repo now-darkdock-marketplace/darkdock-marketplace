@@ -75,4 +75,6 @@ Store your mnemonic code securely in a separate, offline location.
 
 
 
-Update:  13.08.2025 TOR links fixed
+
+
+Update:  08/23/2025
